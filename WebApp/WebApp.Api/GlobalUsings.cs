@@ -1,0 +1,14 @@
+﻿global using FluentValidation;
+global using MediatR;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.EntityFrameworkCore;
+global using Polly;
+global using WebApp.Api.IoC;
+global using WebApp.Domain.Commands;
+global using WebApp.Domain.Interfaces;
+global using WebApp.Domain.Profiles;
+global using WebApp.Domain.Queries;
+global using WebApp.Domain.Validators;
+global using WebApp.Infrastructure.Data;
+global using WebApp.Infrastructure.Repositories;
+global using WebApp.Infrastructure.ServiceClient;
