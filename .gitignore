@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/WebApp/.vs/WebApp
+/WebApp/WebApp.Api/bin/Debug/net8.0
+/WebApp/WebApp.Api/obj
+*.user
+/WebApp/WebApp.CrossCutting/bin/Debug/net8.0
+/WebApp/WebApp.CrossCutting/obj
+/WebApp/WebApp.Domain/bin/Debug/net8.0
+/WebApp/WebApp.Domain/obj
+/WebApp/WebApp.Infrastructure/bin/Debug/net8.0
+/WebApp/WebApp.Infrastructure/obj
+/ConsoleAppTriangulo/obj
+/.vs
+/ConsoleAppTriangulo/Triangulo/.vs/Triangulo/v17
+/ConsoleAppTriangulo/.vs/Triangulo
+/ConsoleAppTriangulo/bin/Debug/net8.0
