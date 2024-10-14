@@ -12,3 +12,8 @@
 /WebApp/WebApp.Domain/obj
 /WebApp/WebApp.Infrastructure/bin/Debug/net8.0
 /WebApp/WebApp.Infrastructure/obj
+/ConsoleAppTriangulo/obj
+/.vs
+/ConsoleAppTriangulo/Triangulo/.vs/Triangulo/v17
+/ConsoleAppTriangulo/.vs/Triangulo
+/ConsoleAppTriangulo/bin/Debug/net8.0
